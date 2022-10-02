@@ -20,6 +20,9 @@ This notebook involves the implementation of the paper ***"Auto-Encoding Variati
 
 *Read the paper here: [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)*
 
+***Here is a sample generation, trained for a few epochs:***
+
+![](vae_gen.gif)
 
 
 
